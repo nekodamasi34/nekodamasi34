@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nekodamasi34&theme=blue-navy&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nekodamasi34&theme=blue-navy&locale=ja&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
