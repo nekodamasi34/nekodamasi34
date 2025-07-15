@@ -27,12 +27,14 @@
 ---
 
 ## 🚀 Getting Started
+
 ```bash
 git clone https://github.com/nekodamasi34/awesome_ros2_pkg.git
 cd awesome_ros2_pkg
 colcon build
 source install/setup.bash
 ros2 run my_pkg talker
+```
 
 
 ---
