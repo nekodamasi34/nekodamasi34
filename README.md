@@ -12,19 +12,16 @@
 
 </div>
 
----
 
 ## 🔧 Highlights
 - ROS2 HumbleでSLAM・ナビゲーション・トピック通信バリバリ  
 - 自作OSSプロジェクト公開中: `awesome_ros2_pkg`  
 - コミット毎日継続中！ストリークバッジで可視化🟢
 
----
 
 ## 📸 Demo
 ![ROS2 Demo GIF](./assets/demo.gif)
 
----
 
 ## 🚀 Getting Started
 
@@ -37,9 +34,7 @@ ros2 run my_pkg talker
 ```
 
 
----
-
-✨ Features
+## ✨ Features
 
 - パブリッシュ／サブスクライブによるリアルタイム制御
 
@@ -48,8 +43,6 @@ ros2 run my_pkg talker
 - Gazebo Sim連携＆SLAMナビゲーション実装
 
 
-
----
 
 ## 🛠 Tech Stack
 
@@ -68,7 +61,6 @@ ros2 run my_pkg talker
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
@@ -76,14 +68,14 @@ ros2 run my_pkg talker
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekodamasi34&show_icons=true&theme=midnight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekodamasi34&layout=compact&theme=midnight)
----
+
 
 ## 🤝 Contributing
 
 PR・Issue大歓迎！
 
 
----
+
 
 ## 📬 Contact Me
 
