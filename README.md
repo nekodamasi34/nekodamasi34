@@ -1,88 +1,154 @@
-
----
-
-<!-- README.md for nekodamasi34 -->
 <div align="center">
 
-# 👋 nekodamasi34
-### ROS2 Humble 愛用の学生エンジニア ⚙️🚀
+# nekodamasi34 / awttenani
 
-[![GitHub stars](https://img.shields.io/github/stars/nekodamasi34?style=social)]()
-[![Profile Visits](https://komarev.com/ghpvc/?username=nekodamasi34)]()
+### National Institute of Technology, Toyama College
+
+ROS 2 / C++ / Embedded / Android
+
+> ロボットはだいたい思った通りには動きません。
+
+![Profile Views](https://komarev.com/ghpvc/?username=nekodamasi34)
 
 </div>
 
+---
 
-## 🔧 Highlights
-- ROS2 HumbleでSLAM・ナビゲーション・トピック通信バリバリ  
-- 自作OSSプロジェクト公開中: `awesome_ros2_pkg`  
-- コミット毎日継続中！ストリークバッジで可視化🟢
+## About Me
 
+```text
+$ ros2 node info /nekodamasi34
 
-## 📸 Demo
-![ROS2 Demo GIF](./assets/demo.gif)
+Subscribers:
+  /robotics
+  /embedded
+  /cars
+  /railways
 
+Publishers:
+  /code
+  /robots
+  /bugs
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/nekodamasi34/awesome_ros2_pkg.git
-cd awesome_ros2_pkg
-colcon build
-source install/setup.bash
-ros2 run my_pkg talker
+Parameters:
+  ros_distro: jazzy
+  favorite_language: C++
+  status: developing...
 ```
 
+* ROS 2を使ったロボット開発
+* STM32 / Raspberry Piを使った組み込み開発
+* KotlinでAndroidアプリ開発
+* LiDAR / Localization / Navigation
 
-## ✨ Features
-
-- パブリッシュ／サブスクライブによるリアルタイム制御
-
-- カスタムメッセージ＆サービス通信
-
-- Gazebo Sim連携＆SLAMナビゲーション実装
-
-
-
-## 🛠 Tech Stack
-
-<!-- 言語 -->
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-<!-- ミドルウェア・OS -->
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=flat&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=flat&logo=OpenRobotics&logoColor=white)
-
-<!-- ツールなど -->
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-
-## 📈 GitHub Stats
-
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekodamasi34&show_icons=true&theme=midnight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekodamasi34&layout=compact&theme=midnight)
-
-
-## 🤝 Contributing
-
-PR・Issue大歓迎！
-
-
-
-
-## 📬 Contact Me
-
-Twitter: @awttenani
-
-📧 Email: nekodamasi34@gmail.com
 
 
 ---
+
+### Robocon / Team Projects
+
+#### 2026A-ros
+
+富山高専ロボコンチーム向けのROS 2ロボット制御システム。
+
+Localization、経路計画、LiDAR、メカナムホイール制御、実機ハードウェアとの通信などを開発。
+
+`ROS 2 Jazzy` `C++` `LiDAR` `MCL` `A*` `Mecanum`
+
+#### 高専ロボコン2023, 2024, 2025, 2026 制御・回路担当
+
+STM32・ROS2を使用した足回り・機構制御を担当。地区大会から全国大会にかけて通信・制御構成も変更。
+
+`STM32` `Mbed` `C++` `ROS`
+
+---
+
+## Projects
+
+### Personal Projects
+
+#### [ROSJoyDroid](https://github.com/nekodamasi34/ROSJoyDroid)
+
+AndroidスマートフォンをROS 2のJoyコントローラとして使うためのアプリ。
+
+`Kotlin` `Android` `ROS 2`
+
+#### [EngineRemoteController](https://github.com/nekodamasi34/EngineRemoteController)
+
+#### [RelayController](https://github.com/nekodamasi34/RelayController)
+
+2026 卒業研究
+
+`Kotlin` `Remote Control` `Embedded` `Embedded` `Hardware`
+
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+
+### Robotics / Embedded
+
+![ROS2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat\&logo=ros\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat\&logo=raspberrypi\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat\&logo=stmicroelectronics\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat\&logo=cmake\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165"
+  src="https://github-stats-extended.vercel.app/api?username=nekodamasi34&show_icons=true&theme=github_dark" />
+
+<img height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=nekodamasi34&layout=compact&theme=github_dark" />
+
+</div>
+
+---
+
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nekodamasi34&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Known Issues
+
+```text
+[WARN] Robot may behave unexpectedly.
+[WARN] TF tree may contain emotional damage.
+[INFO] Trying colcon build again...
+```
+
+---
+
+## Contact
+
+Twitter: [@awttenani](https://twitter.com/awttenani)
+Email: `nekodamasi34@gmail.com`
+
+---
+
+<div align="center">
+
+`It works on my machine.`
+
+</div>
+
 
