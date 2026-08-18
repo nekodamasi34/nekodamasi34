@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - master
-      - agent/add-contribution-snake
+      - agent/private-contributions-snake
 
 jobs:
   generate:
@@ -22,6 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_GITHUB_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
