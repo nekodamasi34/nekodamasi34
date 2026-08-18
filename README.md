@@ -172,10 +172,10 @@ AndroidスマートフォンをROS 2のJoyコントローラとして使うた�
 <div align="center">
 
 <img height="165"
-  src="https://github-stats-extended.vercel.app/api?username=nekodamasi34&show_icons=true&theme=github_dark" />
+  src="https://github-stats-extended.vercel.app/api?username=nekodamasi34&show_icons=true&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 <img height="165"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=nekodamasi34&layout=compact&theme=github_dark" />
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=nekodamasi34&layout=compact&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 </div>
 
