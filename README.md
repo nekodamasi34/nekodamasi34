@@ -88,23 +88,82 @@ AndroidスマートフォンをROS 2のJoyコントローラとして使うた�
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,bash,md" />
+</p>
 
-### Robotics / Embedded
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat)
 
-![ROS2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat\&logo=ros\&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat\&logo=raspberrypi\&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat\&logo=stmicroelectronics\&logoColor=white)
+### Robotics / ROS
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=ros" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat\&logo=cmake\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
+![ROS 2 Jazzy](https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat&logo=ros&logoColor=white)
+![ROS 2 Humble](https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat&logo=ros&logoColor=white)
+![RViz2](https://img.shields.io/badge/RViz2-22314E?style=flat&logo=ros&logoColor=white)
+![TF2](https://img.shields.io/badge/TF2-22314E?style=flat&logo=ros&logoColor=white)
+![URDF](https://img.shields.io/badge/URDF-22314E?style=flat&logo=ros&logoColor=white)
+![Xacro](https://img.shields.io/badge/Xacro-22314E?style=flat&logo=ros&logoColor=white)
+
+![Localization](https://img.shields.io/badge/Localization-555555?style=flat)
+![AMCL](https://img.shields.io/badge/AMCL-555555?style=flat)
+![MCL](https://img.shields.io/badge/MCL-555555?style=flat)
+![Odometry](https://img.shields.io/badge/Odometry-555555?style=flat)
+![Navigation](https://img.shields.io/badge/Navigation-555555?style=flat)
+![A*](https://img.shields.io/badge/A*-Path%20Planning-555555?style=flat)
+![LiDAR](https://img.shields.io/badge/LiDAR-555555?style=flat)
+![PID](https://img.shields.io/badge/PID-Control-555555?style=flat)
+![Foxglove](https://img.shields.io/badge/Foxglove-Visualization-7C3AED?style=flat)
+
+### Embedded / Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+</p>
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Mbed OS](https://img.shields.io/badge/Mbed%20OS-0091BD?style=flat&logo=arm&logoColor=white)
+![NUCLEO F446RE](https://img.shields.io/badge/NUCLEO-F446RE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![NUCLEO L431KI](https://img.shields.io/badge/NUCLEO-L431KI-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ST-LINK](https://img.shields.io/badge/ST--LINK-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+
+### Communication / Interfaces
+
+![UART](https://img.shields.io/badge/UART-555555?style=flat)
+![Serial](https://img.shields.io/badge/Serial-555555?style=flat)
+![CAN](https://img.shields.io/badge/CAN-555555?style=flat)
+![PWM](https://img.shields.io/badge/PWM-555555?style=flat)
+![GPIO](https://img.shields.io/badge/GPIO-555555?style=flat)
+![Wi--Fi](https://img.shields.io/badge/Wi--Fi-0078D4?style=flat&logo=wifi&logoColor=white)
+
+### Android
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,gradle" />
+</p>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![OpenJDK 21](https://img.shields.io/badge/OpenJDK-21-437291?style=flat&logo=openjdk&logoColor=white)
+
+### OS / Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows,vscode,clion,pycharm" />
+</p>
+
+### Build / Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cmake,gradle" />
+</p>
+
+![colcon](https://img.shields.io/badge/colcon-ROS%202%20Build-22314E?style=flat&logo=ros&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
+
 
 ---
 
