@@ -22,6 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # A user token with read:user lets GitHub include private contributions.
           github_token: ${{ secrets.SNAKE_GITHUB_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
